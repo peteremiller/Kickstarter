@@ -10,7 +10,7 @@ Analysis
 2.	Customizing the Data
 I also made sure the data was customized to provide visual feedback. That is, I used conditional formatting to add color to the data and make it easier to spot interesting information quickly. For example, I added color to the 'outcomes' column: 
  
-![Analysis1](https://github.com/peteremiller/mykickstarter-analysis/blob/master/Resources/Analysis1.pnghttp://url/to/img.png)
+<img src="Screenshot/Analysis1.png">
 
 I also created various charts in the analysis to assist the visualization of the data in telling the story of my analysis and hopefully make better sense of the data: 
 	 					 
