@@ -1,13 +1,16 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Louise, I appreciate the time you have given me to analyize the crowdfunding data from Kickstarter.        I have completed my analysis and will provide details of my findings in the information below. I believe   the time I have put in to organize, sort and anaylize the data has led to some discoveries of specific          factors that will help make your campaign successful as you consider how to best use your estimated     $10,000 budget to hopefully fund your play; "Fever".
+Louise, I appreciate the time you have given me to analyize the crowdfunding data from Kickstarter. I have completed my analysis and will provide details of my findings in the information below. I believe the time I have put in to organize, sort and anaylize the data has led to some discoveries of specific factors that will help make your campaign successful as you consider how to best use your estimated $10,000 budget to hopefully fund your play; "Fever".
 ### Purpose
-Just to recap, the purpose of this project is to provide you with actionable information to successfully      fund a theatrical play in the United States using Kickstarter crowdfunding data as the research source.     I believe this information will help you better understand how to set up your campaign to closely             duplicate previously successful crowdfunding campaigns.
+Just to recap, the purpose of this project is to provide you with actionable information to successfully fund a theatrical play in the United States using Kickstarter crowdfunding data as the research source. I believe this information will help you better understand how to set up your campaign to closely duplicate previously successful crowdfunding campaigns.
 ## Analysis and Challenges
-Analysis
-1.	Beginning to Understand the Data I began my analysis by becoming familiar with the dataset. Since it is a large amount of data        spanning   many years, countries and specific topics, I spent time making sure the data was in a  readable format and that I was familiar with the cloumn headings and general content, checked the data for errors and bugs. I used Pivot Tables and Pivot Charts to gain a different perspective on the data by combining several data arrays in a Pivot Chart to search for specific trends, tendencies and outcomes. I found that a few of the columns needed to have the data split into additional columns to better understand what the data was revealing about the crowdfunding process.
-2.	Customizing the Data
+Analysis: Beginning to Understand the Data 
+
+I began my analysis by becoming familiar with the dataset. Since it is a large amount of data spanning many years, countries and specific topics, I spent time making sure the data was in a  readable format and that I was familiar with the cloumn headings and general content, checked the data for errors and bugs. I used Pivot Tables and Pivot Charts to gain a different perspective on the data by combining several data arrays in a Pivot Chart to search for specific trends, tendencies and outcomes. I found that a few of the columns needed to have the data split into additional columns to better understand what the data was revealing about the crowdfunding process.
+
+
+Customizing the Data
 I also made sure the data was customized to provide visual feedback. That is, I used conditional formatting to add color to the data and make it easier to spot interesting information quickly. For example, I added color to the 'outcomes' column: 
  
 <img src="ScreenShot/Analysis1.png">
@@ -37,12 +40,12 @@ I believe there could have been more challenges along the way had I not spent ad
  ## Results
 ### Analysis of Outcomes Based on Launch Date
 I believe there are at least two conclusions I can draw about the Theater Outcomes based on Launch Date analysis.
-1.	The best time to launch a campaign is in either May or June. The data suggests that May has the best campaign outcome in the U.S. of all the months included in the dataset for Theater crowdfunding through Kickstarter. The data suggests that May exceeds expectations of outcomes, while June meets the outcome expected of 100% funding.
-2.	The longer one waits to launch a Theater campaign in the U.S. the more likely the campaign will not meet the outcome goals desired. The data suggests that beginning a campaign in the Fall, Winter or early Spring will not result in the desired outcome. The data also suggests that failed campaigns have their highest points of support in May and October.  
+1.  The best time to launch a campaign is in either May or June. The data suggests that May has the best campaign outcome in the U.S. of all the months included in the dataset for Theater crowdfunding through Kickstarter. The data suggests that May exceeds expectations of outcomes, while June meets the outcome expected of 100% funding.
+2.  The longer one waits to launch a Theater campaign in the U.S. the more likely the campaign will not meet the outcome goals desired. The data suggests that beginning a campaign in the Fall, Winter or early Spring will not result in the desired outcome. The data also suggests that failed campaigns have their highest points of support in May and October.  
 ### Analysis of Outcomes Based on Goals
 I believe the data concludes the following about the Outcomes based on Goals:
-1.	Based on the data provided about completed U.S. Theater campaigns using Kickstarter crowdfunding, I believe the proposed budget of $10,000 represents approximately 50% of the successful U.S. Theater crowdfunding campaigns done through Kickstarter. 
-2.	According to the data the most successful crowdfunding campaigns can be found in the $35,000 to $39,999 and $40,000 to $49,999 ranges representing over 60% of the campaigns that reached or exceeded the campaign goal. 
+1.  Based on the data provided about completed U.S. Theater campaigns using Kickstarter crowdfunding, I believe the proposed budget of $10,000 represents approximately 50% of the successful U.S. Theater crowdfunding campaigns done through Kickstarter. 
+2.  According to the data the most successful crowdfunding campaigns can be found in the $35,000 to $39,999 and $40,000 to $49,999 ranges representing over 60% of the campaigns that reached or exceeded the campaign goal. 
 
  ![Outcomes_vs_Goal.png](https://github.com/peteremiller/mykickstarter-analysis/blob/master/Resources/Outcomes_vs_Goal.png)
 
